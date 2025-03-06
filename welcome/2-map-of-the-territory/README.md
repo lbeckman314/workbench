@@ -1,6 +1,7 @@
-# A Map of the Territory
-
+> [!TIP]
 > https://craftinginterpreters.com/a-map-of-the-territory.html
+
+# A Map of the Territory
 
 ## Quick Start ⚡️
 
