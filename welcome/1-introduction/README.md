@@ -1,6 +1,7 @@
-# Introduction
-
+> [!TIP]
 > https://craftinginterpreters.com/introduction.html
+
+# Introduction
 
 ## Quick Start ⚡️
 
